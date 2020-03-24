@@ -67,5 +67,5 @@ Contribute by making a pull request or reach out to us on twitter at [@hiring202
 |Vanguard|Not Cancelled|Decision by Mar 27|
 |Walmart|Not Cancelled|Hiring Freeze|
 |Western Digital|Not Cancelled||
-|Wish|Not Cancelled||
+|Wish|Not Cancelled|Completely Remote|
 |Zillow|Not Cancelled|Interviews being cancelled|
